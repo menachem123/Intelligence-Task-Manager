@@ -1,0 +1,8 @@
+
+2026-06-18 15:51:38,463 | DEBUG | retern all agents 
+2026-06-18 15:53:22,759 | DEBUG | create asent 
+2026-06-18 15:53:58,723 | DEBUG | retern agent by id 
+2026-06-18 15:54:02,508 | DEBUG | retern agent by id 
+2026-06-18 15:55:35,777 | DEBUG | return all missions 
+2026-06-18 15:58:51,980 | DEBUG | create mission 
+2026-06-18 15:59:42,983 | DEBUG |  return mission by id 
